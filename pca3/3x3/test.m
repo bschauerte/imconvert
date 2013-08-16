@@ -1,0 +1,1 @@
+mex -cxx eig3x3.c lib3x3.so.1.0.0
